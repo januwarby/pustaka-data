@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "title": "Laskar Pelangi",
+    "author": "Andrea Hirata",
+    "category": "Sastra",
+    "cover_url": "https://raw.githubusercontent.com/username/pustaka-data/main/covers/laskar-pelangi.jpg",
+    "file_url": "https://raw.githubusercontent.com/username/pustaka-data/main/ebooks/laskar-pelangi.pdf"
+  }
+]
