@@ -1,0 +1,30 @@
+name: Auto Update Books Data
+on:
+  push:
+    paths:
+      - 'ebooks/**' # Berjalan otomatis saat ada PDF baru di folder ebooks
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install pymupdf
+
+      - name: Run Script
+        run: python update_books.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto update: covers and books.json" || exit 0
+          git push
