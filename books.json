@@ -1,20 +1,20 @@
 [
   {
     "id": "1",
-    "title": "Catatan atas Laporan Keuangan Perangkat Daerah",
+    "title": "Catatan atas Laporan Keuangan Perangkat Daerah Kecamatan Karanglewas Tahun 2025",
     "author": "Kecamatan Karanglewas",
     "category": "Keuangan",
-    "cover_url": "",
-    "file_url": ""
+    "cover_url": "https://github.com/januwarby/pustaka-data/blob/64f5ebf654ddb4d32841059845e2cfdab0c27f0c/covers/cover_calk.jpg",
+    "file_url": "https://github.com/januwarby/pustaka-data/blob/64f5ebf654ddb4d32841059845e2cfdab0c27f0c/ebooks/CaLK%20Tahun%202025%20Kec.Kr.%20Lewas.pdf"
   }
   
   {
     "id": "2",
-    "title": "Negeri 5 Menara",
-    "author": "Januwar By Khaqi",
-    "category": "Sastra",
-    "cover_url": "",
-    "file_url": ""
+    "title": "Laporan Kinerja Instansi Pemerintah Tahun Kecamatan Karanglewas 2025",
+    "author": "Kecamatan Karanglewas",
+    "category": "Kinerja",
+    "cover_url": "https://github.com/januwarby/pustaka-data/blob/64f5ebf654ddb4d32841059845e2cfdab0c27f0c/covers/lkjip.jpg",
+    "file_url": "https://github.com/januwarby/pustaka-data/blob/64f5ebf654ddb4d32841059845e2cfdab0c27f0c/ebooks/LKjIP%20Kec.%20Karanglewas%202025%20OK.pdf"
   }
   
 ]
