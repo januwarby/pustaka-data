@@ -4,8 +4,8 @@
     "title": "CALK Karanglewas Tahun 2025",
     "author": "Kecamatan Karanglewas",
     "category": "Keuangan",
-    "cover_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/blob/64f5ebf654ddb4d32841059845e2cfdab0c27f0c/covers/cover_calk.jpg",
-    "file_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/blob/d186d846475483e7ec4f5b8c4d6f0a9127def7d8/ebooks/calk2025.pdf"
+    "cover_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/covers/cover_calk.jpg",
+    "file_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/ebooks/lkjip2025.pdf"
   }
   
   {
@@ -13,8 +13,8 @@
     "title": "LKJIP Karanglewas Tahun 2025",
     "author": "Kecamatan Karanglewas",
     "category": "Kinerja",
-    "cover_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/blob/64f5ebf654ddb4d32841059845e2cfdab0c27f0c/covers/lkjip.jpg",
-    "file_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/blob/d186d846475483e7ec4f5b8c4d6f0a9127def7d8/ebooks/lkjip2025.pdf"
+    "cover_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/covers/lkjip.jpg",
+    "file_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/ebooks/lkjip2025.pdf"
   }
   
 ]
