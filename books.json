@@ -6,6 +6,14 @@
     "category": "Kinerja",
     "cover_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/covers/lkjip.jpg",
     "file_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/ebooks/lkjip2025.pdf"
+  },
+  {
+    "id": "2",
+    "title": "Karanglewas Dalam Angka Tahun 2025",
+    "author": "BPS Kab. Banyumas",
+    "category": "Statistik",
+    "cover_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/covers/coverkda2025.png",
+    "file_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/ebooks/kecamatan-karanglewas-dalam-angka-2025.pdf"
   }
   
 ]
