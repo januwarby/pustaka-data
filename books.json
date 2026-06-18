@@ -1,15 +1,6 @@
-[
+[ 
   {
     "id": "1",
-    "title": "CALK Karanglewas Tahun 2025",
-    "author": "Kecamatan Karanglewas",
-    "category": "Keuangan",
-    "cover_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/covers/cover_calk.jpg",
-    "file_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/ebooks/lkjip2025.pdf"
-  },
-  
-  {
-    "id": "2",
     "title": "LKJIP Karanglewas Tahun 2025",
     "author": "Kecamatan Karanglewas",
     "category": "Kinerja",
