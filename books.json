@@ -8,14 +8,6 @@
         "file_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/ebooks/fdsgfdsg-261001082424.pdf"
     },
     {
-        "id": "3",
-        "title": "lorem ipsum",
-        "author": "Lorem ipsum dolor sit amet",
-        "category": "Lorem ipsum dolor sit amet",
-        "cover_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/covers/lorem-ipsum-261001081157.jpg",
-        "file_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/ebooks/lorem-ipsum-261001081157.pdf"
-    },
-    {
         "id": "1",
         "title": "LKJIP Karanglewas Tahun 2025",
         "author": "Kecamatan Karanglewas",
