@@ -1,12 +1,5 @@
 [
     {
-        "title": "Tes Panel Lorem Ipsum",
-        "author": "Lorem ipsum dolor sit amet",
-        "category": "Lorem ipsum dolor sit amet",
-        "cover_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/covers/tes-panel-lorem-ipsum-261001080702.jpg",
-        "file_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/ebooks/tes-panel-lorem-ipsum-261001080702.pdf"
-    },
-    {
         "id": "1",
         "title": "LKJIP Karanglewas Tahun 2025",
         "author": "Kecamatan Karanglewas",
