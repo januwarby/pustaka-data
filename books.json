@@ -1,12 +1,5 @@
 [
     {
-        "title": "Testing Panel Dashboard",
-        "author": "Lorem ipsum dolor sit amet",
-        "category": "Lorem ipsum dolor sit amet",
-        "cover_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/covers/testing-panel-dashboard-261001075956.jpg",
-        "file_url": "https://raw.githubusercontent.com/januwarby/pustaka-data/master/ebooks/testing-panel-dashboard-261001075956.pdf"
-    },
-    {
         "id": "1",
         "title": "LKJIP Karanglewas Tahun 2025",
         "author": "Kecamatan Karanglewas",
